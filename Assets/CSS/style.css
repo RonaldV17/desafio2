@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(118, 209, 126);
+}
+
+header{
+    color: black;
+    background-image: url("/Users/acer/.vscode/Desafío 2/Assets/Imagenes/Imagen1.jpg");
+    padding: 9em;
+    background-size:cover;
+    background-position: center;
+}
+
+header h1 {
+    color: aliceblue;
+    font-size: 4em;
+}
+
+header p {
+    color: antiquewhite;
+    font-size: 2em;
+}
+
+section p {
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+}
+
+.products h2 {
+    color: antiquewhite;
+    font-size: 2em;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+}
+
+.list {
+    width: 80%;
+    margin: auto;
+}
+
+.list td {
+    width: 50%;
+    padding: 2em;
+}
+
+.list img{
+    width: 100%;
+    border: solid 1px antiquewhite;
+}
+
+section button {
+    color: black;
+}
+
+footer {
+    color: antiquewhite;
+    font-size: 1em;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+}
+
+footer p {
+    margin: 0;
+}
