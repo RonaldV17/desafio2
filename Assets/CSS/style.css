@@ -4,7 +4,7 @@ body{
 
 header{
     color: black;
-    background-image: url("/Users/acer/.vscode/Desafío 2/Assets/Imagenes/Imagen1.jpg");
+    background-image: url("../Imagenes/Imagen1.jpg");
     padding: 9em;
     background-size:cover;
     background-position: center;
